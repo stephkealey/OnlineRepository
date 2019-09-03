@@ -20,7 +20,7 @@ The seven GitHub labs include an overview of fundamental GitHub skills including
 <h3> Course Completion: </h3>
 <img src="FirstDayOnGitHub.jpg" alt="First Day On GitHub">
 <img src="FirstWeekOnGitHub.jpg" alt="First Week On GitHub"></details> 
-<br>
+
 <details><summary>PowerBI</summary></details>
 <details><summary>Linux</summary></details>
 <details><summary>AWS</summary></details>

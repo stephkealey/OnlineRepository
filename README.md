@@ -1,4 +1,4 @@
-# Welcome to my Online Resume
+# Welcome to Stephanie Kealey's Resume
 
 My name is Stephanie Kealey and I am a senior Computer Information Systems major with a minor in Spanish. I will use this repository to display the skills and certifications I acquired in my time at The University of Tulsa.
 

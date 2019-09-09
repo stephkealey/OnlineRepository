@@ -5,7 +5,7 @@ My name is Stephanie Kealey and I am a senior Computer Information Systems major
 <h2>Technical Skills</h2>
 <details><summary>GitHub</summary>
   <h3> Description: </h3>
-I completed the introductory GitHub learning labs offered on the <a href="https://lab.github.com/courses">GitHub website.</a> The training  provided in depth learning about the GitHub workflow as well as an overview of fundamental GitHub skills including:
+I completed the introductory GitHub learning labs offered on the <a href="https://lab.github.com/courses">GitHub website.</a> The training  provided in-depth learning about the GitHub workflow as well as an overview of fundamental GitHub skills including:
   <ul>
 <li>Introduction to GitHub</li>
 <li>Communicating using Markdown</li>

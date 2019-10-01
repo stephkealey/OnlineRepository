@@ -38,6 +38,7 @@ I completed an <a href="https://powerbi.microsoft.com/en-us/learning/">online tr
 <li>Power BI mobile phone/tablet compatibility and features</li>
 </ul>
   <h3>Course Completion: </h3>
+  View an in-depth explaination of my <a href="https://youtu.be/J8JPkh9XevI">Retail Analysis Dashboard</a> created with sample data from Microsoft.
   <img src="Dashboard.JPG" alt="Dashboard">
 </details>
 <details><summary>Linux</summary></details>

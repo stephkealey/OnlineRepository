@@ -41,10 +41,25 @@ I completed an <a href="https://powerbi.microsoft.com/en-us/learning/">online tr
   View an in-depth explaination of my <a href="https://youtu.be/J8JPkh9XevI">Retail Analysis Dashboard</a> created with sample data from Microsoft.
   <img src="Dashboard.JPG" alt="Dashboard">
 </details>
-<details><summary>Linux</summary></details>
-<details><summary>AWS</summary></details>
-<details><summary>PowerShell</summary></details>
-<details><summary>SalesForce</summary></details>
+<details><summary>Linux</summary>
+  <h3> Description: </h3>
+Currently working on and will update upon completion.
+</details>
+<details><summary>AWS</summary>
+  <h3> Description: </h3>
+Currently working on and will update upon completion.
+</details>
+<details><summary>PowerShell</summary>
+  <h3> Description: </h3>
+Currently working on and will update upon completion.
+</details>
+<details><summary>SalesForce</summary>
+  <h3> Description: </h3>
+Currently working on and will update upon completion.
+</details>
 
 <h2>Certifications</h2>
-<details><summary>Certificate</summary></details>
+<details><summary>Certificate</summary>
+  <h3> Description: </h3>
+  Currently working on and will update upon completion.
+</details>

@@ -57,7 +57,7 @@ Currently working on and will update upon completion.
   <h3> Description: </h3>
 Currently working on and will update upon completion.
 </details>
-
+<br>
 <h2>Certifications</h2>
 <details><summary>Certificate</summary>
   <h3> Description: </h3>

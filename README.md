@@ -51,24 +51,21 @@ I completed an <a href="https://powerbi.microsoft.com/en-us/learning/">online tr
 <br> 
 <h4>Skills:</h4>
 <ul>
-<li>The Linux Community and a Career in Open Source</li>
 <li>Linux Evolution and Popular Operating Systems</li>
-<li>How to Access a Linux Installation</li>
 <li>Major Open Source Applications</li>  
-<li>Understanding Open Source Software and Licensing</li> 
 <li>ICT Skills and Working in Linux</li>
-<li>Command Line Basics</li> 
 <li>Using Directories and Listing Files</li> 
-<li>Archiving Files on the Command Line</li> 
-<li>Searching and Extracting Data from Files</li> 
-<li>Turning Commands into a Script</li>
 <li>The Linux Operating System</li>
 <li>Security and File Permissions</li>
 <li>Basic Security and Identifying User Groups</li>
-<li>Creating Users and Groups</li> 
 <li>Managing File Permissions and Ownership</li> 
 <li>Special Directories and Files</li> 
 </ul>
+  <br>
+  With the completion of the Linux Essentials course, I was able to install Virtual Box and Ubuntu from this <a href="https://sal-a.github.io/vbox-ubuntu/#2-download-an-iso-file-for-ubuntu-from-httpsubuntucomdownloaddesktop">installation guide</a> to deploy an Algo VPN IPSec server installation and operational test with these <a href="https://github.com/trailofbits/algo">setup instructions</a> that utilized Digital Ocean. The subsequent screenshot helps showcase the successful host IP address, AlgoVPN IP address, and DigitalOcean droplet:
+<br>
+<br>
+<img src="algovpn.JPG" alt="algovpn">
 </details>
 
 <details><summary>AWS</summary>

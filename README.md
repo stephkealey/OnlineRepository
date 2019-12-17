@@ -71,7 +71,7 @@ I completed an <a href="https://powerbi.microsoft.com/en-us/learning/">online tr
 <details><summary>AWS</summary>
   <h3> Description: </h3>
   Through completing the <a href="https://linuxacademy.com/cp/modules/view/id/241?redirect_uri=https://app.linuxacademy.com/search?query=w&categories=AWS&type=Course">Amazon Web Services Essentials</a> course on Linux Academy, I was introduced to the core of AWS services and have applied the following concepts to real-world applications. Additonally, I learned how to setup my personal AWS account and how AWS uses its platform to manage databases, storage services, and elastic cloud computations.
-  
+  <br>
   <h4>Skills:</h4>
   <ul>
 <li>Managing AWS Access with Users, Groups, and Roles</li>

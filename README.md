@@ -70,9 +70,9 @@ I completed an <a href="https://powerbi.microsoft.com/en-us/learning/">online tr
 
 <details><summary>AWS</summary>
   <h3> Description: </h3>
-  With the completion of the Amazon Web Services Essentials course on <a href="https://linuxacademy.com">Linux Academy,</a> I was able to be introduced to the core of AWS services and the ability of applying the following concepts to real-world applications. Additonally, I learned how to setup my personal AWS account, understand management tools, and how AWS uses its platform to manage databases, storage services, and elastic cloud computations. AWS has become beneficial for organizations to stay ahead or keep up with new resources and capabilities.
+  Through completing the <a href="https://linuxacademy.com/cp/modules/view/id/241?redirect_uri=https://app.linuxacademy.com/search?query=w&categories=AWS&type=Course">Amazon Web Services Essentials</a> course on Linux Academy, I was introduced to the core of AWS services and have applied the following concepts to real-world applications. Additonally, I learned how to setup my personal AWS account and how AWS uses its platform to manage databases, storage services, and elastic cloud computations.
   
-  <h4><a href="https://linuxacademy.com/cp/modules/view/id/241?redirect_uri=https://app.linuxacademy.com/search?query=w&categories=AWS&type=Course">Skills:</a></h4>
+  <h4>Skills:</h4>
   <ul>
 <li>Managing AWS Access with Users, Groups, and Roles</li>
 <li>Networking Services and Connectivity</li>  
@@ -83,12 +83,12 @@ I completed an <a href="https://powerbi.microsoft.com/en-us/learning/">online tr
 <li>Load Balancing, Elasticity, and Scalability</li>
 <li>Serverless Compute</li>  
 </ul>
-  
+  <br>
 After completing the AWS Essentials course, I configured an additonal Virtual Private Network with an OpenVPN Access Server that would be on AWS. I followed this <a href="https://openvpn.net/vpn-server-resources/amazon-web-services-ec2-byol-appliance-quick-start-guide/">installation guide</a> which included the launch and configuration steps to deploy the OpenVPN Access Server on EC2 within AWS. The following screenshot helps showcase my accomplished OpenVPN Access Server launch with my current EC2 instance and Active Configuration:
 <br>
 <br>
-<img src="AWSInstan.JPG" alt="AWSI">
-<img src="OpenAWS.JPG" alt="OAWS"
+<img src="instance.JPG" alt="AWS Instance">
+<img src="openvpn.JPG" alt="AWS Open VPN">
 </details>
 <details><summary>PowerShell</summary>
   <h3> Description: </h3>

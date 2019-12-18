@@ -107,7 +107,7 @@ After completing the AWS Essentials course, I configured an additonal Virtual Pr
 </ul>
   
  <h4> PowerShell 5 Essential Course Completion Certificate: </h4>
-<img src="PowerShellCert.JPG" alt="PSC">
+<img src="powershellcert.JPG" alt="PSC">
 </details>
 <details><summary>SalesForce</summary>
   <h3> Description: </h3>

@@ -96,7 +96,23 @@ Currently working on and will update upon completion.
 </details>
 <details><summary>SalesForce</summary>
   <h3> Description: </h3>
-Currently working on and will update upon completion.
+  
+ With the completion of the Salesforce Admin Beginner Course provided by <a href="https://trailhead.salesforce.com/en/content/learn/trails/force_com_admin_beginner">Trailhead,</a> I was introduced to the basics and utilities in Salesforce. As I was progressing through this course, I learned how to create reports with filters, create objects, fields and relationships, export and import data from different sources, and the ability to provide and create unique visualizations that can be made for many key business aspects. Being exposed and introduced to these topics and steps helped me understand the capabilities cloud technology can have on businesses and indivduals too.
+  
+<h4>Skills:</h4>
+  <ul>
+<li>Salesforce Platform Basics</li>
+<li>Data Modeling</li>  
+<li>Data Management</li>
+<li>Lightning Experience Customization</li> 
+<li>Salesforce Mobile App Customization</li>
+<li>User Engagement</li>
+<li>Reports & Dashboards for Lightning Experience</li> 
+</ul>
+
+ <h4> Salesforce Admin Beginner Course Completion & Badges: </h4>
+<img src="profile.JPG" alt="Profile">
+<img src="badges.JPG" alt="Badges">
 </details>
 <br>
 <h2>Certifications</h2>

@@ -62,7 +62,7 @@ I completed an <a href="https://powerbi.microsoft.com/en-us/learning/">online tr
 <li>Special Directories and Files</li> 
 </ul>
   <br>
-  With the completion of the Linux Essentials course, I was able to install Virtual Box and Ubuntu from this <a href="https://sal-a.github.io/vbox-ubuntu/#2-download-an-iso-file-for-ubuntu-from-httpsubuntucomdownloaddesktop">installation guide</a> to deploy an Algo VPN IPSec server installation and operational test with these <a href="https://github.com/trailofbits/algo">setup instructions</a> that utilized Digital Ocean. The subsequent screenshot helps showcase the successful host IP address, AlgoVPN IP address, and DigitalOcean droplet:
+ By completing the Linux Essentials course, I was able to install Virtual Box and Ubuntu from this <a href="https://sal-a.github.io/vbox-ubuntu/#2-download-an-iso-file-for-ubuntu-from-httpsubuntucomdownloaddesktop">installation guide</a> to deploy an Algo VPN IPSec server installation and operational test with these <a href="https://github.com/trailofbits/algo">setup instructions</a> that utilized Digital Ocean. The subsequent screenshot helps showcase the successful host IP address, AlgoVPN IP address, and DigitalOcean droplet:
 <br>
 <br>
 <img src="algovpn.JPG" alt="algovpn">
